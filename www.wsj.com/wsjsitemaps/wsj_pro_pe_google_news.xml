@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9' xmlns:news='http://www.google.com/schemas/sitemap-news/0.9' xmlns:image='http://www.google.com/schemas/sitemap-image/1.1'>
+    <url>
+        <loc>https://www.wsj.com/articles/advocacy-group-calls-for-checks-on-private-equity-debt-11673311128</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-10T12:00:00+00:00</news:publication_date>
+            <news:title>Advocacy Group Calls for Checks on Private-Equity Debt</news:title>
+            <news:keywords>dunbst</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-678471?width=1280&amp;size=1.501</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/outlook-for-brazils-private-markets-hinges-on-new-governments-fiscal-discipline-11673310942</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-10T11:30:00+00:00</news:publication_date>
+            <news:title>Outlook for Brazil’s Private Markets Hinges on New Government’s Fiscal Discipline</news:title>
+            <news:keywords></news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-699932?width=1280&amp;size=1.501</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-141804?width=1280&amp;size=0.668</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-700241?width=1280&amp;size=1.550</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-700067?width=1280&amp;size=0.668</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/vista-equity-partners-to-buy-software-maker-duck-creek-in-2-6-billion-deal-11673311161</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-10T00:39:00+00:00</news:publication_date>
+            <news:title>Vista Equity Partners to Buy Software Maker Duck Creek in $2.6 Billion Deal</news:title>
+            <news:keywords>duckct,andac</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-700216?width=1280&amp;size=1.501</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/auto-transport-roundup-market-talk-11673268637</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T12:50:00+00:00</news:publication_date>
+            <news:title>Auto &amp; Transport Roundup: Market Talk</news:title>
+            <news:keywords>amda,spaceport cornwall,wbw,berenberg,cosco,cspl,federal ministry for economic affairs,hackett associates,hhla,hhla container terminal tollerort,mcwhirter,volvo,knrbrm,ukmod,carmax,easjet,evcgzz,fgvger,fiat,florns,frdmo,gnmoc,guwks,hhl,jrvttt,natrfe,ncnbco,orelau,phunt,rmetl,rynaer,smwh,uauwk,wesah</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://si.wsj.net/public/resources/images/S1-CW199_np_aut_OR_20190701120625.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/secondary-investors-wait-for-the-deal-levee-to-break-11673032012</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T11:30:00+00:00</news:publication_date>
+            <news:title>Secondary Investors Wait for the Deal Levee to Break</news:title>
+            <news:keywords>leuc,pjtpai</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-697738?width=1280&amp;size=1.501</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-697605?width=1280&amp;size=1.068</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-697686?width=1280&amp;size=1.022</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-697674?width=1280&amp;size=1.333</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-697600?width=1280&amp;size=1.000</image:loc>
+        </image:image>
+    </url>
+</urlset>

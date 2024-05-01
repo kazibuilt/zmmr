@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9' xmlns:news='http://www.google.com/schemas/sitemap-news/0.9' xmlns:image='http://www.google.com/schemas/sitemap-image/1.1'>
+    <url>
+        <loc>https://www.wsj.com/articles/mary-daly-says-slower-rate-raises-could-help-fed-account-for-monetary-policy-lags-11673297923</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T20:58:00+00:00</news:publication_date>
+            <news:title>Mary Daly Says Slower Rate Raises Could Help Fed Account for Monetary Policy Lags</news:title>
+            <news:keywords>inflation</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-697778?width=1280&amp;size=1.501</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/transcript-san-francisco-fed-president-mary-daly-at-wsj-live-q-a-event-11673298098</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T21:01:00+00:00</news:publication_date>
+            <news:title>Transcript: San Francisco Fed President Mary Daly at WSJ Live Q&amp;A Event</news:title>
+            <news:keywords></news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-699957?width=1280&amp;size=1.778</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/u-s-consumer-prices-likely-to-show-softening-in-december-11673292774</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T19:32:00+00:00</news:publication_date>
+            <news:title>U.S. Consumer Prices Likely to Show Softening in December</news:title>
+            <news:keywords>u.s. consumer,ncnbco</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/articles/brazil-might-suffer-more-organized-violence-11673290661</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T18:57:00+00:00</news:publication_date>
+            <news:title>Brazil Might Suffer More Organized Violence</news:title>
+            <news:keywords>verisk maplecroft,fgvbrs</news:keywords>
+        </news:news>
+    </url>
+</urlset>

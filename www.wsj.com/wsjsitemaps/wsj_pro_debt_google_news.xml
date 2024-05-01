@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9' xmlns:news='http://www.google.com/schemas/sitemap-news/0.9' xmlns:image='http://www.google.com/schemas/sitemap-image/1.1'>
+    <url>
+        <loc>https://www.wsj.com/articles/new-chapter-11-bankruptcy-filings-week-ending-jan-8-2023-11673305627</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-09T23:07:00+00:00</news:publication_date>
+            <news:title>New Chapter 11 Bankruptcy Filings - Week Ending Jan. 8, 2023</news:title>
+            <news:keywords></news:keywords>
+        </news:news>
+    </url>
+</urlset>

@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9' xmlns:news='http://www.google.com/schemas/sitemap-news/0.9' xmlns:image='http://www.google.com/schemas/sitemap-image/1.1'>
+    <url>
+        <loc>https://www.wsj.com/articles/private-equity-firms-tighten-focus-on-cyber-defenses-at-portfolio-companies-11673643373</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Wall Street Journal</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-01-16T10:30:00+00:00</news:publication_date>
+            <news:title>Private-Equity Firms Tighten Focus on Cyber Defenses at Portfolio Companies</news:title>
+            <news:keywords>jetblu,secws</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://images.wsj.net/im-703612?width=1280&amp;size=1.501</image:loc>
+        </image:image>
+    </url>
+</urlset>
